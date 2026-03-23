@@ -102,10 +102,13 @@ graph LR
     I --> J[User Answer]
 ```
 
+---
 
-### Notes
+## 💖 Support MQNotebook
 
-- Works in **VS Code**, **GitHub**, **GitLab**, and **Obsidian** (with Mermaid enabled)
-- Uses `graph LR` for left-to-right flow
-- Explicit arrows from `C/D/E → F` (more compatible than `C & D & E --> F`)
+MQNotebook is actively maintained to keep enterprise RAG workflows reliable on messy real-world documents.
+
+If MQNotebook helps you build better retrieval systems, consider supporting continued development and maintenance:
+
+[![Patreon](https://img.shields.io/badge/Patreon-qasimio-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/qasimio)
 
