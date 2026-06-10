@@ -113,7 +113,7 @@ graph LR
 
 ## 💖 Support MQNotebook
 
-MQNotebook is developed and maintained by **Qasim Sethar (@qasimio)** to keep enterprise RAG workflows reliable on messy real-world documents.
+MQNotebook is developed and maintained by to keep enterprise RAG workflows reliable on messy real-world documents.
 
 If MQNotebook helps you build better retrieval systems, consider supporting continued development and maintenance:
 
