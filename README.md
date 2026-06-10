@@ -4,8 +4,14 @@
 
 Unlike standard "Chat with PDF" demos, this system is engineered to ingest scanned files, complex spreadsheets, and slide decks with speaker notes—running securely on your local machine or the cloud.
 
+
+## Links
+
 🔗 **Live Demo:** [mqnotebook.streamlit.app](https://mqnotebook.streamlit.app/)
-🔗 **Project Page:** [qasimio.me](https://https://qasimio.me/projects/mqnotebook/)
+
+🌐 **Project Website:** [qasimio.me/projects/mqnotebook](https://qasimio.me/projects/mqnotebook/)
+
+👨‍💻 **Author:** Qasim Sethar ([@qasimio](https://github.com/qasimio))
 
 ---
 
