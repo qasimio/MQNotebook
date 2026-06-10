@@ -5,6 +5,7 @@
 Unlike standard "Chat with PDF" demos, this system is engineered to ingest scanned files, complex spreadsheets, and slide decks with speaker notes—running securely on your local machine or the cloud.
 
 🔗 **Live Demo:** [mqnotebook.streamlit.app](https://mqnotebook.streamlit.app/)
+🔗 **Project Page:** [qasimio.me](https://https://qasimio.me/projects/mqnotebook/)
 
 ---
 
@@ -40,7 +41,7 @@ To run this locally, you must install the external OCR tools.
 ### 2. Python Setup
 ```bash
 # Clone the repo
-git clone [https://github.com/yourusername/MQNotebook.git](https://github.com/yourusername/MQNotebook.git)
+git clone https://github.com/qasimio/MQNotebook.git
 cd MQNotebook
 
 # Install dependencies
@@ -106,7 +107,7 @@ graph LR
 
 ## 💖 Support MQNotebook
 
-MQNotebook is actively maintained to keep enterprise RAG workflows reliable on messy real-world documents.
+MQNotebook is developed and maintained by **Qasim Sethar (@qasimio)** to keep enterprise RAG workflows reliable on messy real-world documents.
 
 If MQNotebook helps you build better retrieval systems, consider supporting continued development and maintenance:
 
